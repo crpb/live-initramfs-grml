@@ -6,8 +6,8 @@ Build-Depends: debhelper (>= 5), dpatch
 Build-Depends-Indep: asciidoc, docbook-xsl, xsltproc
 Standards-Version: 3.8.4
 Homepage: http://live.debian.net/devel/live-initramfs/
-Vcs-Browser: http://git.grml.org/?p=live-initramfs-grml.git
-Vcs-Git: git://git.grml.org/live-initramfs-grml.git
+Vcs-Browser: https://github.com/grml/live-initramfs-grml
+Vcs-Git: https://github.com/grml/live-initramfs-grml.git
 
 Package: live-initramfs
 Architecture: all
